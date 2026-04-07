@@ -35,6 +35,8 @@ views:
       - type
       - people
     sort:
+      - property: people
+        direction: ASC
       - property: date
         direction: ASC
   - type: table
