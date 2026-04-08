@@ -1,7 +1,7 @@
 ---
 categories:
   - "[[Emails]]"
-created: {{date}}
+created: 2026-04-08
 org: []
 people: []
 url:

@@ -5,7 +5,7 @@ tags:
   - note
   - journal
   - meditation
-created: {{date}}
+created: 2026-04-08
 loc: []
 topics: []
 ---

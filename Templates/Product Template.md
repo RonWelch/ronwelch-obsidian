@@ -6,6 +6,6 @@ maker:
 model:
 rating:
 price:
-acquired: {{date}}
+acquired: 2026-04-08
 monthly-uses:
 ---

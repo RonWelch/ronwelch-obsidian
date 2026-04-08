@@ -1,11 +1,11 @@
 ---
-categories: 
+categories:
   - "[[Conference sessions]]"
-conference: 
-speaker: 
+conference:
+speaker:
 topics: []
-rating: 
-last: {{date}}
+rating:
+last: 2026-04-08
 tags:
   - conferences
   - sessions

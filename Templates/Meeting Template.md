@@ -2,7 +2,7 @@
 categories:
   - "[[Meetings]]"
 type: []
-date: {{date}}
+date: 2026-04-08
 org:
 loc:
 people: []

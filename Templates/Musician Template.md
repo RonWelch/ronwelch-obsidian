@@ -2,7 +2,7 @@
 categories: "[[People]]"
 type:
   - "[[Musicians]]"
-created: {{date}}
+created: 2026-04-08
 ---
 ## Albums
 

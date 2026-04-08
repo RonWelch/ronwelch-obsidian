@@ -5,7 +5,7 @@ type:
   - "[[Job Interviews]]"
 org:
 people: []
-date: {{date}}
+date: 2026-04-08
 role:
 rating:
 ---

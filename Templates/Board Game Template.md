@@ -5,5 +5,5 @@ type: []
 maker:
 year:
 rating:
-last: {{date}}
+last: 2026-04-08
 ---

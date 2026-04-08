@@ -7,8 +7,8 @@ ingredients:
 author: []
 url:
 rating:
-created: {{date}}
-last: {{date}}
+created: 2026-04-08
+last: 2026-04-08
 ---
 ## Ingredients
 

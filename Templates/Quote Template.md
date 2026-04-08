@@ -3,7 +3,7 @@ categories:
   - "[[Quotes]]"
 attribution: []
 source:
-created: {{date}}
+created: 2026-04-08
 topics: []
 via:
 ---
