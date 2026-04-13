@@ -1,0 +1,6 @@
+---
+categories:
+  - "[[People]]"
+tags:
+birthday:
+---

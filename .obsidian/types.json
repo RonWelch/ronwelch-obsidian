@@ -32,7 +32,7 @@
     "producer": "multitext",
     "process": "text",
     "phone": "text",
-    "role": "text",
+    "role": "multitext",
     "birthday": "date",
     "guests": "multitext",
     "cuisine": "multitext",
