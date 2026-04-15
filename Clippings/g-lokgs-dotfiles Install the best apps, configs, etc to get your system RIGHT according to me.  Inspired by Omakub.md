@@ -18,7 +18,7 @@ Heavily influenced by [Omakub](https://omakub.org/).
 
 ## What this be
 
-This is a curated collection of app installation and configuration scripts for MacOS and Linux (coming soon).
+This is a curated collection of app installation and configuration scripts for [[MacOS]] and [[Linux]] (coming soon).
 
 It is designed to provide a simple and aesthetic experience for users of all kinds, and to provide the best (opinionated) choices for any environment.
 
