@@ -22,7 +22,7 @@ In January 2025, Doug O’Laughlin at [Fabricated Knowledge](https://www.fabrica
 
 It’s worth pointing out, however, that some of the critical insights undergirding Aggregation Theory are much older, and are embedded in the fundamental nature of tech itself. They are, as O’Laughlin notes, rooted in the concept of zero marginal costs.
 
-### Marginal Costs
+### [[Marginal Costs]]
 
 Marginal costs are how much it costs to make one more unit of a good. Consider a widget-making factory:
 
@@ -32,7 +32,7 @@ Marginal costs are how much it costs to make one more unit of a good. Consider a
 - You need humans to operate the machines
 - You need the raw material for the widgets
 
-Land and machines are clearly fixed costs; you have to have both to get started, and you are paying for both whether or not you make one more widget. Raw material, on the other hand, is clearly a marginal cost: if you make one more widget, you need one more widget’s worth of raw material. When it comes to physical goods, electricity and humans are also marginal costs: you need more or fewer of them depending on whether you make more or fewer widgets.
+Land and machines are clearly [[fixed costs]]; you have to have both to get started, and you are paying for both whether or not you make one more widget. Raw material, on the other hand, is clearly a marginal cost: if you make one more widget, you need one more widget’s worth of raw material. When it comes to physical goods, electricity and humans are also marginal costs: you need more or fewer of them depending on whether you make more or fewer widgets.
 
 Where marginal costs matter is that they provide a price floor. Companies will operate unprofitably because profit and loss is an accounting concept that incorporates depreciation, i.e. your fixed costs. For example, imagine that a company spent $1,000 on a factory to make widgets that have a marginal cost of $10: as long as the price of widgets is >$10 the company will make them even if they don’t earn enough money to cover their depreciation costs (i.e. they operate at a loss) because at least they are still making a marginal profit on each widget (what the company may not do is invest in any more fixed costs, and, eventually, will probably go bankrupt from interest on the debt that likely financed those fixed costs).
 
@@ -40,7 +40,7 @@ I explain all of this precisely because it’s almost completely immaterial to t
 
 AI very much fits in this paradigm: the output is digital, and while AI chips use a lot of electricity, the cost is a fraction of the cost of the chips themselves, which is to say that no one with AI chips is making marginal cost calculations in terms of utilizing them. They’re going to be used! Rather, the decision that matters is what they will be used for.
 
-### Opportunity Costs
+### [[Opportunity Costs]]
 
 Consider Microsoft: [last quarter](https://stratechery.com/2026/microsoft-and-software-survival/) the company missed the Street’s Azure growth expectations not because there wasn’t demand, but because the company decided to use its capacity for its own products. CFO Amy Hood said [on the company’s earnings call](https://seekingalpha.com/article/4863620-microsoft-corporation-msft-q2-2026-earnings-call-transcript):
 
