@@ -17,3 +17,9 @@ topics: []
 
 "C:\Users\welchr\EPDM\BAE\PlatformsAndSolutions\DigitalEngineering\DigitalWorkInstructions\Desktop Guide for Weld Process Plan Creation.pptx"
 
+Lincoln Electric Weld Control software
+Miller Centerpoint 
+
+
+![[Pasted image 20260416094951.png]]
+
