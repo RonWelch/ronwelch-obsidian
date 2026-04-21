@@ -36,10 +36,10 @@ views:
       - people
     sort:
       - property: file.name
-        direction: DESC
-      - property: date
         direction: ASC
       - property: people
+        direction: DESC
+      - property: date
         direction: ASC
   - type: table
     name: Type

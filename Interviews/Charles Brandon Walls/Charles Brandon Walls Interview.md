@@ -1,7 +1,9 @@
 ---
 categories:
   - "[[Meetings]]"
-type: []
+  - "[[Job Interviews]]"
+type:
+  - "[[Job Interviews]]"
 date: 2026-04-21
 org:
 loc:
@@ -18,19 +20,21 @@ Focus on the "Essential" skills.
 * [[Git Question]]
 * [[Unix Question]]
 
-*   ==**Spring Boot:**== "Describe your experience using Spring Boot for API development. What are the benefits of using Spring Boot compared to other Java frameworks for building APIs?" (Technical – looking for: understanding of dependency injection, RESTful principles, experience with Spring annotations, knowledge of Spring Boot's auto-configuration features)
+*   ==**Spring Boot:**== "Describe your experience using [[Spring Boot]] for API development. What are the benefits of using Spring Boot compared to other Java frameworks for building APIs?" (Technical – looking for: understanding of dependency injection, RESTful principles, experience with Spring annotations, knowledge of Spring Boot's auto-configuration features)
 
-*   **==webMethods==:** "Walk me through a scenario where you utilized webMethods to integrate two disparate systems.  What were the challenges you faced, and how did you overcome them?" (Technical/Behavioral – looking for: hands-on experience, problem-solving skills, understanding of webMethods’ capabilities).
+*   **==[[WebMethods]]==:** "Walk me through the scenario at [[Apple]] where you utilized [[WebMethods]] to integrate two disparate systems.  What were the challenges you faced, and how did you overcome them?" (Technical/Behavioral – looking for: hands-on experience, problem-solving skills, understanding of [[WebMethods]] capabilities).
+* Give an example where you used [[Unix]] scripting to solve a problem and tell my why you decided to use a script to do it.
 ## Notes
 
 -  Postman, logs, DNS
-- API Gateway (WebMethods)
-- HATEOAS - Hypertext as the engine of application state 
+- API Gateway ([[WebMethods]])
+- [[HATEOAS]] - Hypertext as the engine of application state 
 
 SOAP - WSDL generated?
-HATEOAS
+[[HATEOAS]]
+
+[[CharlesBrandonWalls-Resume.pdf]]
 
 
-![[DerrikLeeResume.pdf]]
 
 

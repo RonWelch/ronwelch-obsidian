@@ -1,11 +1,12 @@
 ---
 categories:
   - "[[Meetings]]"
+  - "[[Job Interviews]]"
 type:
   - "[[Job Interviews]]"
 org:
 people:
-  - Gregory Palmour
+  - "[[Gregory Palmour]]"
 date: 2026-04-15
 role:
   - "[[API Integration Specialist Posting]]"

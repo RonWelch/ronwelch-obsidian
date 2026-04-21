@@ -1,12 +1,14 @@
 ---
 categories:
   - "[[Meetings]]"
-type: []
+  - "[[Job Interviews]]"
+type:
+  - "[[Job Interviews]]"
 date: 2026-04-07
 org:
 loc:
 people:
-  - John Grand
+  - "[[John Grand]]"
 topics: []
 ---
 

@@ -1,6 +1,7 @@
 ---
 categories:
   - "[[People]]"
+  - "[[Job Interviews]]"
 birthday:
 org: []
 created: 2026-04-07
