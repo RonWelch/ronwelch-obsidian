@@ -12,7 +12,7 @@ A naked objects framework for JavaScript with automatic UI generation, persisten
 
 ## About
 
-STRVCT implements the [naked objects](http://downloads.nakedobjects.net/resources/Pawson%20thesis.pdf) pattern for JavaScript. You write domain model classes with annotated properties — the framework automatically generates the user interface, handles persistence, and keeps everything synchronized.
+[[STRVCT]] implements the [naked objects](http://downloads.nakedobjects.net/resources/Pawson%20thesis.pdf) pattern for JavaScript. You write domain model classes with annotated properties — the framework automatically generates the user interface, handles persistence, and keeps everything synchronized.
 
 The model layer is completely independent of the UI, allowing the same application code to run in a browser, on a command line, or headlessly in Node.js for testing and server-side processing.
 
@@ -61,3 +61,5 @@ Source code, issues, and contributions.
 View →
 
 For AI agents: [llms.txt](https://strvct.net/llms.txt) (curated index) and [llms-full.txt](https://strvct.net/llms-full.txt) (full content).
+
+See [[STRVT Technical Overview]] 
