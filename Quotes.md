@@ -1,0 +1,3 @@
+Simplicity and sincerity generally go hand in hand, as both proceed from a love of truth. [[Mary Wollstonecraft]]
+
+
