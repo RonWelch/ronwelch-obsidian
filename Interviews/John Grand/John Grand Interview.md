@@ -31,6 +31,9 @@ Focus on the "Essential" skills.
 SOAP - WSDL generated?
 HATEOAS
 
+[[John Grand Resume.pdf]]
+
+
 
 
 
