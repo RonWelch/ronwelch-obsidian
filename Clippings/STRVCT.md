@@ -8,7 +8,7 @@ description: "A naked objects framework for JavaScript with automatic UI generat
 tags:
   - "clippings"
 ---
-A naked objects framework for JavaScript with automatic UI generation, persistence, and cloud sync.
+A [[Naked Objects]] framework for JavaScript with automatic UI generation, persistence, and cloud sync.
 
 ## About
 
