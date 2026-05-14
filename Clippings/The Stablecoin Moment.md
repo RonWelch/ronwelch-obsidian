@@ -1,13 +1,15 @@
 ---
-title: "The Stablecoin Moment"
-source: "https://x.com/zauthinc/article/2049887609552584800"
+title: The Stablecoin Moment
+source: https://x.com/zauthinc/article/2049887609552584800
 author:
   - "[[zauth (@zauthinc)]]"
 published: 2026-04-30
 created: 2026-05-04
-description: "In 1997 the internet reserved a status code for payments and forgot about it for 28 years. That just changed. What we are covering:>The $32..."
+description: In 1997 the internet reserved a status code for payments and forgot about it for 28 years. That just changed. What we are covering:>The $32...
 tags:
-  - "clippings"
+  - clippings
+  - blockchain
+  - BUGuestLecture
 ---
 ![Image](https://pbs.twimg.com/media/HHIzFR3agAEIOf0?format=jpg&name=large)
 

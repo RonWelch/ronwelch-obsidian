@@ -1,13 +1,14 @@
 ---
-title: "Design from the inside"
-source: "https://mattstromawn.com/writing/design-from-the-inside/?utm_source=tldrnewsletter"
+title: Design from the inside
+source: https://mattstromawn.com/writing/design-from-the-inside/?utm_source=tldrnewsletter
 author:
   - "[[Matt Ström-Awn]]"
 published: 2026-05-05
 created: 2026-05-07
-description: "Matt Ström-Awn · Designer, leader, and coach focused on building exceptional products and teams."
+description: Matt Ström-Awn · Designer, leader, and coach focused on building exceptional products and teams.
 tags:
-  - "clippings"
+  - clippings
+  - Programming
 ---
 Imagine you’re an architect hired to redesign the floorplan of an office. The company hiring you has grown from 10-100 employees and wants to make sure the space is easy to navigate and the common areas are in the optimal location.
 

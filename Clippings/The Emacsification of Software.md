@@ -1,13 +1,14 @@
 ---
-title: "The Emacsification of Software"
-source: "https://sockpuppet.org/blog/2026/05/12/emacsification/"
+title: The Emacsification of Software
+source: https://sockpuppet.org/blog/2026/05/12/emacsification/
 author:
   - "[[Quarrelsome]]"
 published: 2026-05-12
 created: 2026-05-14
 description:
 tags:
-  - "clippings"
+  - clippings
+  - ArtificialIntelligence
 ---
 **You want a good Markdown viewer more than you think you do.**
 
