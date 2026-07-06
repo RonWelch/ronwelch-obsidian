@@ -1,12 +1,15 @@
 ---
-title: "vanyapr/makaroshki"
-source: "https://github.com/vanyapr/makaroshki/tree/main"
+title: vanyapr/makaroshki
+source: https://github.com/vanyapr/makaroshki/tree/main
 author:
 published:
 created: 2026-06-12
-description: "Contribute to vanyapr/makaroshki development by creating an account on GitHub."
+description: Contribute to vanyapr/makaroshki development by creating an account on GitHub.
 tags:
-  - "clippings"
+  - clippings
+  - git
+  - vibecoding
+  - ArtificialIntelligence
 ---
 ## Macaroni Messenger
 
