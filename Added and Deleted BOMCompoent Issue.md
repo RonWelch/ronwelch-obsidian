@@ -1,3 +1,16 @@
+---
+categories:
+  - "[[Projects]]"
+type: []
+org: []
+start:
+year:
+url:
+status:
+tags:
+  - DTaaS
+---
+
 
 MCN: 510483
 
@@ -155,6 +168,51 @@ Changed Part
 Deleted BOMComponent (OSN: 6609)
 Added BOMComponent (OSN: 1)
 LineNumber change from 17 to nothing
+
+
+
+https://www.ptc.com/en/support/article/CS320593?source=search
+
+
+
+P and S Stats:
+
+Analysis for .xml messages in: PROD/U__ENTRY/
+-----------------------------------
+Total Messages:     335
+Largest Message:    43.85 MB (ESI-TXN-125-EntryMessage.xml)
+Smallest Message:   730 B (ESI-TXN-Blorf-PublicationResultMessage-0000000000000.xml)
+Average Size:       3.52 MB
+Messages > 10 MB:   54
+Newest Message:     2026-06-27 09:54:44 (ESI-TXN-8-PublicationResultMessage-d3896ee3-6157-4bea-8c7d-c906083b0dbc.xml)
+Oldest Message:     2026-02-12 21:17:50 (ESI-TXN-8-PublicationResultMessage-5ae079cb-eb93-41d3-9d80-dc47a015b5df.xml)
+
+
+
+
+USC Stats:
+
+nhnaunxlpdmp520:ResponseFiles wcadminusc $ ./sizes.sh
+Analysis for directory: .
+-----------------------------------
+Total Files:       9453
+Largest File:      14.61 MB
+Smallest File:     2.41 KB
+Average Size:      179.41 KB
+Files > 10 MB:     11
+Newest File:       2026-07-06 14:31:11
+Oldest File:       2025-05-27 12:42:21
+
+
+IBM webMethods B2B supports payloads up to 500 MB
+
+https://www.ibm.com/docs/en/wm-b2b?topic=overview-large-document-handling
+
+
+
+The underlying webMethods Universal Messaging platform 
+
+
 
 
 
