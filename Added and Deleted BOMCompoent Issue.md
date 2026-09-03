@@ -216,3 +216,120 @@ The underlying webMethods Universal Messaging platform
 
 
 
+Can I get some stats on  
+-Number of messages sent per month Mar-July  
+
+Analysis for .xml messages in: Feb/
+-----------------------------------
+Total Messages:     46
+Largest Message:    48.60 KB (ESI-TXN-15-EntryMessage.xml)
+Smallest Message:   24.21 KB (ESI-TXN-12-EntryMessage.xml)
+Average Size:       35.92 KB
+Messages > 10 MB:   0
+Newest Message:     2026-02-19 07:12:30 (ESI-TXN-59-EntryMessage.xml)
+Oldest Message:     2026-02-13 10:14:08 (ESI-TXN-11-EntryMessage.xml)
+
+
+Analysis for .xml messages in: Mar/
+-----------------------------------
+Total Messages:     25
+Largest Message:    24.27 KB (ESI-TXN-60-EntryMessage.xml)
+Smallest Message:   24.27 KB (ESI-TXN-60-EntryMessage.xml)
+Average Size:       24.27 KB
+Messages > 10 MB:   0
+Newest Message:     2026-03-25 11:56:39 (ESI-TXN-87-EntryMessage.xml)
+Oldest Message:     2026-03-05 08:25:49 (ESI-TXN-61-EntryMessage.xml)
+
+
+Analysis for .xml messages in: Apr/
+-----------------------------------
+Total Messages:     20
+Largest Message:    14.36 MB (ESI-TXN-105-EntryMessage.xml)
+Smallest Message:   24.26 KB (ESI-TXN-88-EntryMessage.xml)
+Average Size:       3.63 MB
+Messages > 10 MB:   2
+Newest Message:     2026-04-17 07:49:20 (ESI-TXN-110-EntryMessage.xml)
+Oldest Message:     2026-04-03 19:37:49 (ESI-TXN-88-EntryMessage.xml)
+
+Analysis for .xml messages in: May/
+-----------------------------------
+Total Messages:     48
+Largest Message:    43.85 MB (ESI-TXN-125-EntryMessage.xml)
+Smallest Message:   107.09 KB (ESI-TXN-163-EntryMessage.xml)
+Average Size:       10.85 MB
+Messages > 10 MB:   24
+Newest Message:     2026-05-29 10:56:48 (ESI-TXN-165-EntryMessage.xml)
+Oldest Message:     2026-05-07 08:30:57 (ESI-TXN-119-EntryMessage.xml)
+
+
+Analysis for .xml messages in: Jun/
+-----------------------------------
+Total Messages:     33
+Largest Message:    1.13 MB (ESI-TXN-186-EntryMessage.xml)
+Smallest Message:   24.26 KB (ESI-TXN-187-EntryMessage.xml)
+Average Size:       270.87 KB
+Messages > 10 MB:   0
+Newest Message:     2026-06-27 09:54:41 (ESI-TXN-8-EntryMessage.xml)
+Oldest Message:     2026-06-01 10:09:27 (ESI-TXN-166-EntryMessage.xml)
+
+Analysis for .xml messages in: Jul/
+-----------------------------------
+Total Messages:     1
+Largest Message:    24.26 KB (ESI-TXN-192-EntryMessage.xml)
+Smallest Message:   24.26 KB (ESI-TXN-192-EntryMessage.xml)
+Average Size:       24.26 KB
+Messages > 10 MB:   0
+Newest Message:     2026-07-22 14:36:31 (ESI-TXN-192-EntryMessage.xml)
+Oldest Message:     2026-07-22 14:36:31 (ESI-TXN-192-EntryMessage.xml)
+
+Analysis for .xml messages in: Aug/
+-----------------------------------
+Total Messages:     12
+Largest Message:    1.20 MB (ESI-TXN-201-EntryMessage.xml)
+Smallest Message:   64.35 KB (ESI-TXN-196-EntryMessage.xml)
+Average Size:       470.18 KB
+Messages > 10 MB:   0
+Newest Message:     2026-08-11 10:48:58 (ESI-TXN-206-EntryMessage.xml)
+Oldest Message:     2026-08-05 11:42:22 (ESI-TXN-193-EntryMessage.xml)
+
+
+-Within that how many ECN, ECO, etc.  
+-% Success and Failure  
+
+79 MCN messages published since February
+23 Success
+56 Fail
+--------
+29.1 Success rate, however this includes "re-tries". All the MCN except for Aug were published successfully eventually.
+
+
+- Avg message size.
+
+Totals:
+
+Analysis for .xml messages in: .
+-----------------------------------
+Total Messages:     363
+Largest Message:    43.85 MB (AMPV_Test1.xml)
+Smallest Message:   730 B (ESI-TXN-Blorf-PublicationResultMessage-0000000000000.xml)
+Average Size:       3.52 MB
+Messages > 10 MB:   56
+Newest Message:     2026-08-11 10:49:01 (ESI-TXN-206-PublicationResultMessage-0c196b15-3e34-4cbb-8678-50ee11b8cb88.xml)
+Oldest Message:     2026-02-12 21:17:50 (ESI-TXN-8-PublicationResultMessage-5ae079cb-eb93-41d3-9d80-dc47a015b5df.xml)
+
+PTC is asking me: 
+1. When was this behavior first observed?
+
+I think we sent our first ESI Release on February 12
+
+2. How many transactions are known to have shown this behavior?
+
+Around 5 I believe (Katie please correct me)
+
+3. What type of release activity has shown this behavior (e.g. BOM components)?
+
+BOM Components 
+
+4. What is the difference in the ESI response between the release activity having “Create” and the one having “Delete”?
+
+One thing we changed was a Soft Attribute (called "OSN") on the usage link I believe. 
