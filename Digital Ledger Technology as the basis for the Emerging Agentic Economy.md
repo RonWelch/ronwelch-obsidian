@@ -11,5 +11,5 @@ As future business leaders, you are facing both unprecedented opportunities and 
 
 Insert William Gibson quote here - The future is here, it is just not evenly distributed. 
 
-Explain how free markets rock the world!
+Explain how free markets rock the world!!
 
